@@ -10,10 +10,9 @@ My contribution to the Capstone project:
 I was responsible for developing and executing the database functions of the project, specifically handling the MySQL-based components that support the finance management section. This involved designing efficient database schemas, writing and optimizing queries, and ensuring seamless data retrieval and storage. Additionally, I worked to maintain data integrity and performance, contributing to a robust and scalable financial management system. 
 
 The below YouTube video presented by Alexander Roberts demonstrates the System Overview of the application. It describes how to use the functions of BookBuddy. 
+
 https://youtu.be/X9Erd0EyMoI?si=sAnukxGZBiT-cX89&t=300
 
-The code I developed.
-![image](https://github.com/user-attachments/assets/071eb5cd-2097-4747-8042-e84ae5693028)
 The portion of the application I was responsible for in the video begins at 5:00 and provides an overview of the design and operational structure of the finance management system. 
 ![image](https://github.com/user-attachments/assets/c177e788-28ac-4145-b44b-2f603867dc98)
 
@@ -41,7 +40,6 @@ Local Resources and downloads needed prior to using Book Buddy.
  Download Python 
 *Skip this step if a Python 3 variation is already installed on your computer. Python 2
 variations ARE NOT compatible with the program.
-
 
 1.	Navigate to https://www.python.org/downloads/
 2.	Click the yellow button “Download Python <latest version>” (at time of writing, that is 3.12.2).
