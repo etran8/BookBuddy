@@ -19,17 +19,20 @@ The portion of the application I was responsible for in the video begins at 5:00
 Please notes, running this application requires subscriptions to Google Search API (SerpApi) and Open API with having money in the OpenAI account. More information in the document below.
 
 
+
 ----------
 
 Book Buddy Training Documentation
 
 Section #	   Topic	                 Start Page
-1	           Introduction	               2
-2            System Setup	               2
-3            System Overview	           6
-4	           Security                    7
-5            Interface Design            8
-6            Troubleshooting and Help	   8
+
+1	           Introduction	               	    2
+2            	   System Setup	                    2
+3            	   System Overview	            6
+4	           Security                         7
+5            	   Interface Design                 8
+6            	   Troubleshooting and Help	    8
+
 
 Section 1: Introduction
 Welcome to the Book Buddy Training Documentation. This manual serves as your comprehensive guide, covering everything from the initial setup of your Book Buddy to troubleshooting the application. Whenever relevant, we will provide links and supplemental resources to enhance your understanding and implementation. For any queries regarding the software, please consult this document as your primary reference resource. Let's embark on this journey together to maximize your Book Buddy experience.
