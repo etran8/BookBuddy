@@ -27,11 +27,17 @@ Book Buddy Training Documentation
 Section #	   Topic	                 Start Page
 
 1	           Introduction	               	    2
+
 2            	   System Setup	                    2
+
 3            	   System Overview	            6
+
 4	           Security                         7
+
 5            	   Interface Design                 8
+
 6            	   Troubleshooting and Help	    8
+
 
 
 Section 1: Introduction
