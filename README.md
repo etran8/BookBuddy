@@ -41,8 +41,11 @@ Section #	   Topic	                 Start Page
 
 
 Section 1: Introduction
+
 Welcome to the Book Buddy Training Documentation. This manual serves as your comprehensive guide, covering everything from the initial setup of your Book Buddy to troubleshooting the application. Whenever relevant, we will provide links and supplemental resources to enhance your understanding and implementation. For any queries regarding the software, please consult this document as your primary reference resource. Let's embark on this journey together to maximize your Book Buddy experience.
+
 Section 2: System Setup
+
 Local Resources and downloads needed prior to using Book Buddy.
 
 1.	On the main project page for ‘Capstone,’ click on BookBuddy.py. To download the stable version of BookBuddy.py, click on development to open a drop down menu, then select master. Then, click the download icon(an arrow pointing down into a sideways bracket (This contains all of the system code).
@@ -132,6 +135,7 @@ encryptoenv -a "OpenAIKey=InsertHere" "PASSWORD= InsertHere " "SerpAPI= InsertHe
 11.	If errors occur, ensure the previous steps were followed correctly. Otherwise, the Book Buddy Landing page should appear:
  
 Section 3: System Overview
+
 Video Training on the System overview and functionality.
 	
 1.	Open https://youtu.be/X9Erd0EyMoI for the system overview training video. 
@@ -143,8 +147,10 @@ Video Training on the System overview and functionality.
 1.1.1.4.	Running a Report 
 1.1.2.	Button and link descriptions 
 1.1.3.	Example usage of the functions 
-1.1.4.	Destination file walkthrough 
+1.1.4.	Destination file walkthrough
+  	
 Section 4: Security
+
 General Password Security
 a.	Requirements:
 i.	14+ Characters long
@@ -182,11 +188,14 @@ i.	Shortcut  (Windows key + L)
 ii.	Right click the Windows icon, select ‘Shut down or Sign out’, then left-click the most relevant option (sleep to resume work soon, shut down if work is done for a while, and restart if necessary).
 
 Section 5: Interface Design
+
 Wireframes of the Book Buddy Interface design. This section serves as a reference of the Book Buddy Interface architecture. 
 
 1.	Wireframes can be found here: https://www.figma.com/file/xndBfBaQ2EkMOfibfpiw2S/Book-Buddy-Interface-Design?type=design&node-id=0%3A1&mode=design&t=gnmZVvyk5w6OeOyA-1
-1.1.	 
+1.1.
+  	
 Section 6: Troubleshooting and Help 
+
 Errors that you may encounter, plus some external resources. 
 
 Troubleshooting
