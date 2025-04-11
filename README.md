@@ -1,5 +1,5 @@
 # BookBuddy
-This BookBuddy application was developed to assist an aspiring author in promoting the content of her new book. The application offers three key functionalities: 
+This is my capstone project at GMU. This BookBuddy application was developed to assist an aspiring author in promoting the content of her new book. The application offers three key functionalities: 
 (1) AI-powered image and text generation, 
 (2) web scraping to analyze search trends based on user-provided prompts.
 (3) A business finance tracker that enables users to input and delete financial records while keeping track of monthly and total expenses.
